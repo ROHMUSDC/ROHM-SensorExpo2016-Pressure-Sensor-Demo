@@ -1,0 +1,2794 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001May-12-2016 at 11:11:29 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SENSORS EXPO DEMO_12MAY2016_1200';
+ POST_TIME='Mar 26 2012 19:10:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B2 'BATTERY_100MIL_VIA-2_LI-ION':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383163@DISCRETE.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383163@discrete.\battery.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383163@discrete.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAPACITOR NON-POL_C0402_DNP':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384663@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384663@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384663@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'C_2_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385035@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385035@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385035@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'C_2_C0402_120PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384099@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384099@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384099@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384179@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384179@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384179@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384043@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384043@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384043@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'C_2_C0402_2200PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383887@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383887@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383887@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'C_2_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384475@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384475@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384475@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'C_2_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384335@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384335@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384335@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384783@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384783@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384783@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384627@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384627@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384627@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'C_2_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383647@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383647@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383647@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14405251@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14405251@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14405251@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399715@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399715@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399715@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398683@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398683@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398683@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399407@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399407@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399407@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399319@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399319@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399319@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'C_2_C1206_10UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436376@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436376@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436376@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446842@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446842@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446842@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'C_2_C1206_10UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446710@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446710@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446710@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'C_2_C0402_120PF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446690@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446690@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446690@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446730@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446730@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446730@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'C_2_C0402_2200PF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446822@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446822@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446822@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'C_2_C0402_2.2UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14447018@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14447018@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14447018@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'C_2_C0402_DNP':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436416@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436416@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436416@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436120@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436120@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436120@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'C_2_C0402_0.33UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436200@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436200@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436200@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436504@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436504@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436504@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'C_2_C0402_2.2NF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446670@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446670@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446670@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'C_2_C0402_0.1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436336@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436336@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436336@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'C_2_C0402_10NF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446998@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446998@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446998@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'C_2_C0402_0.1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436180@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436180@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436180@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'C_2_C0402_0.1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446938@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446938@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446938@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'C_2_C0402_0.1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436160@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436160@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436160@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'C_2_C0402_1UF':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398859@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398859@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398859@stepper.\c_2.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'C_2_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385307@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385307@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385307@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'C_2_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385071@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385071@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385071@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'C_2_C1206_100UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383751@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383751@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383751@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'C_2_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384139@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384139@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384139@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'C_2_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384763@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384763@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384763@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'C_2_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384607@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384607@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384607@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384703@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384703@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384703@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383507@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383507@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383507@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'C_2_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383587@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383587@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383587@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'C_2_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383367@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383367@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383367@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'C_2_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384455@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384455@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384455@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'C_2_C0402_1.0NF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383471@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383471@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383471@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'C_2_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384199@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384199@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384199@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'C_2_C0402_47NF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384079@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384079@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384079@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'C_2_C0402_3.9PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384843@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384843@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384843@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'C_2_C0402_1.0PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384823@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384823@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384823@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'C_2_C0402_1.5PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384683@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384683@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384683@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'C_2_C0402_1.2PF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384511@STEPPER.C_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384511@stepper.\c_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384511@stepper.\c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_1_D0402_LED':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385287@SENSORS EXPO DEMO_09MAY2016_05.LED_1.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385287@\sensors expo demo_09may2016_05\.\led_1.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385287@\sensors expo demo_09may2016_05\.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0_D0402_LED':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385091@SENSORS EXPO DEMO_09MAY2016_05.LED_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385091@\sensors expo demo_09may2016_05\.\led_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385091@\sensors expo demo_09may2016_05\.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 '8 HEADER_HDR_1X8_100_1X8 HEADER':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383407@CONNECTOR.8 HEADER.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383407@connector.\8 header.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383407@connector.\8 header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'J15_HDR_1X2_2P54MM_HDR_1X2_2P54':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398839@ML620Q503H.J15.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398839@ml620q503h.\j15.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398839@ml620q503h.\j15.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'J19_1_HDR_1X2_2P54MM_HDR_1X2_2P':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436140@SENSORS EXPO_2016-04-19_APART FROM BLE.J19_1.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436140@\sensors expo_2016-04-19_apart from ble\.\j19_1.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436140@\sensors expo_2016-04-19_apart from ble\.\j19_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'INDUCTOR_L0402_4.7NH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383923@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383923@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383923@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_L0402_27NH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383791@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383791@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383791@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_L0402_3.3NH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384999@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384999@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384999@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_INDM3838X165_4.7UH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384959@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384959@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384959@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_INDM3735X180_4.7UH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436456@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436456@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436456@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_L0805_10UH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384119@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384119@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384119@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'INDUCTOR_L0603_15NH':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383087@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383087@discrete.\inductor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383087@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P23 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446332@SENSORS EXPO_2016-04-19_APART FROM BLE_M.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446332@\sensors expo_2016-04-19_apart from ble_m\.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446332@\sensors expo_2016-04-19_apart from ble_m\.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399063@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399063@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399063@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398899@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398899@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398899@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q11 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398611@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398611@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398611@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399571@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399571@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399571@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q12 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398659@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398659@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398659@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400239@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400239@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400239@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q13 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398635@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398635@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398635@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400215@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400215@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400215@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q14 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399087@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399087@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399087@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400131@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400131@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400131@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q4 'MOSFET N_0_EMT3_RE1C002UNTCL':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14423703@SENSORS EXPO DEMO_11MAY2016_02.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14423703@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14423703@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET N_0_EMT3_RE1C002UNTCL':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14424116@SENSORS EXPO DEMO_11MAY2016_02.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14424116@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14424116@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET N_0_EMT3_RE1C002UNTCL':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383215@SENSORS EXPO DEMO_11MAY2016_02.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383215@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383215@\sensors expo demo_11may2016_02\.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399835@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399835@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399835@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399811@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399811@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399811@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q8 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398923@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398923@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398923@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399979@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399979@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399979@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q9 'DUAL N-CH MOSFET 126_ROHM_EM6K1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399523@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399523@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399523@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399547@TRANSISTOR.DUAL N-CH MOSFET 126.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399547@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399547@transistor.\dual n-ch mosfet 126.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ R100 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398751@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398751@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398751@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399159@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399159@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399159@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400195@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400195@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400195@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400111@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400111@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400111@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400091@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400091@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400091@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398771@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398771@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398771@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400331@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400331@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400331@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400351@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400351@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400351@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398523@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398523@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398523@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399859@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399859@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399859@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400003@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400003@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400003@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400399@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400399@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400399@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399483@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399483@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399483@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400311@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400311@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400311@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399503@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399503@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399503@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399179@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399179@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399179@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399299@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399299@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399299@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399959@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399959@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399959@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399239@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399239@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399239@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399111@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399111@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399111@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399259@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399259@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399259@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398591@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398591@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398591@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399919@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399919@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399919@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400155@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400155@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400155@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R124 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399199@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399199@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399199@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399015@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399015@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399015@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399595@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399595@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399595@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398571@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398571@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398571@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399939@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399939@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399939@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400071@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400071@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400071@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399359@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399359@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399359@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399219@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399219@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399219@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399279@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399279@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399279@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R133 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398703@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398703@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398703@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R134 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399899@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399899@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399899@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R135 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400263@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400263@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400263@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R136 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399339@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399339@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399339@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R137 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398879@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398879@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398879@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R138 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398947@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398947@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398947@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R139 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400175@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400175@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400175@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R140 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399735@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399735@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399735@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R141 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400051@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400051@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400051@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R142 'RES_1K_1%_1/8W_0_R0402_22':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398791@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398791@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398791@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'RES_1K_1%_1/8W_0_R0402_0':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14447058@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14447058@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14447058@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R144 'RES_1K_1%_1/8W_0_R0402_39K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446958@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446958@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446958@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'RES_1K_1%_1/8W_0_R0402_430':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14447078@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14447078@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14447078@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R146 'RES_1K_1%_1/8W_0_R0402_510':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436356@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436356@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436356@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R147 'RES_1K_1%_1/8W_0_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436296@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436296@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436296@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R148 'RES_1K_1%_1/8W_0_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446978@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446978@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446978@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R149 'RES_1K_1%_1/8W_0_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436524@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436524@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436524@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R150 'RES_1K_1%_1/8W_0_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446284@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446284@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446284@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R151 'RES_1K_1%_1/8W_0_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436484@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436484@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436484@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R152 'RES_1K_1%_1/8W_0805PKG_R0402_0':
+ ROOM='FTDI';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436396@RESISTOR.RES_1K_1%_1/8W_0805PKG.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436396@resistor.\res_1k_1%_1/8w_0805pkg.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436396@resistor.\res_1k_1%_1/8w_0805pkg.normal\(chips)',
+ ROOM='FTDI',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R153 'RES_1K_1%_1/8W_0_R0402_2.2K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436100@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436100@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436100@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R154 'RES_1K_1%_1/8W_0_R0402_2.2K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436436@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436436@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436436@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R155 'RES_1K_1%_1/8W_0_R0402_2.2K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436316@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436316@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436316@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R156 'RES_1K_1%_1/8W_0_R0402_2.2K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14447038@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14447038@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14447038@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'RESISTOR_R0402_51K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384251@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384251@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384251@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'RESISTOR_R0402_51K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385359@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385359@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385359@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'RESISTOR_R0402_43':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383239@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383239@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383239@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'RESISTOR_R0402_56':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383627@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383627@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383627@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR_R0402_43':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383867@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383867@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383867@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383771@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383771@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383771@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384743@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384743@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384743@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384979@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384979@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384979@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383831@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383831@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383831@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384723@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384723@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384723@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383567@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383567@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383567@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384023@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384023@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384023@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384803@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384803@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384803@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383731@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383731@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383731@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383667@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383667@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383667@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384531@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384531@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384531@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'RES_1K_1%_1/8W_0_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14436504@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14436504@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14436504@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384003@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384003@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384003@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'RESISTOR_R0402_39K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384863@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384863@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384863@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'RESISTOR_R0402_0':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383331@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383331@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383331@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383451@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383451@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383451@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_R0402_200':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383127@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383127@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383127@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR_R0402_200':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384159@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384159@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384159@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383311@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383311@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383311@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383107@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383107@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383107@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383607@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383607@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383607@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383387@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383387@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383387@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383259@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383259@discrete.\resistor.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383259@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'RES_1K_1%_1/8W_0_R0402_180':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399879@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399879@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399879@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'RES_1K_1%_1/8W_0_R0402_36':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398995@ROHM_USB-PD_DP-ALTMODE_EVK_20150421_02.RES_1K_1%_1/8W_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398995@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398995@\rohm_usb-pd_dp-altmode_evk_20150421_02\.\res_1k_1%_1/8w_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPI_CS1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384063@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384063@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384063@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPI_MISO1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384647@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384647@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384647@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPI_MOSI1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383183@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383183@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383183@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPI_RST1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383491@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383491@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383491@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPI_SCLK1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385155@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385155@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385155@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_0_SW_PANASONIC_EV':
+ ROOM='Q111';
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446570@SENSORS EXPO DEMO_6MAY2016_1230.SW PUSHBUTTON_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446570@\sensors expo demo_6may2016_1230\.\sw pushbutton_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446570@\sensors expo demo_6may2016_1230\.\sw pushbutton_0.normal\(chips)',
+ ROOM='Q111',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TEST1_N 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446270@SENSORS EXPO_2016-04-19_APART FROM BLE_M.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446270@\sensors expo_2016-04-19_apart from ble_m\.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446270@\sensors expo_2016-04-19_apart from ble_m\.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP20 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385343@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385343@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385343@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP21 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384907@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384907@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384907@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP22 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383851@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383851@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383851@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP23 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383351@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383351@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383351@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP24 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385327@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385327@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385327@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP25 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383199@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383199@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383199@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP26 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384495@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384495@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384495@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP27 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384219@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384219@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384219@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP28 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384319@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384319@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384319@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP29 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384567@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384567@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384567@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP30 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384235@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384235@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384235@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP31 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384943@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384943@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384943@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP32 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384551@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384551@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384551@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP48 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461079@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461079@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461079@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP49 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461101@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461101@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461101@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP50 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461123@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461123@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461123@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP51 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461161@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461161@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461161@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP52 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461175@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461175@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461175@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP53 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461189@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461189@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461189@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP54 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461372@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461372@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461372@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP55 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461386@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461386@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461386@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP56 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461422@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461422@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461422@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP57 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461436@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461436@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461436@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP58 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461466@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461466@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461466@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP59 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14461480@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14461480@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14461480@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP60 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462474@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462474@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462474@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP61 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462488@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462488@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462488@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP62 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462518@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462518@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462518@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP63 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462532@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462532@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462532@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP64 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462578@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462578@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462578@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP65 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462592@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462592@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462592@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP66 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462606@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462606@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462606@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP67 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462620@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462620@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462620@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP68 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462722@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462722@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462722@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP69 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462736@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462736@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462736@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP70 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462778@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462778@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462778@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP71 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462792@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462792@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462792@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP72 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462806@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462806@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462806@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP73 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462861@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462861@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462861@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP74 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14462847@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14462847@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14462847@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP75 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461482@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461482@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461482@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP76 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461504@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461504@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461504@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP77 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461526@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461526@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461526@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP78 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461548@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461548@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461548@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP79 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461571@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461571@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461571@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP80 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461594@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461594@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461594@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP81 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461617@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461617@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461617@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP82 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461640@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461640@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461640@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP83 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461663@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461663@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461663@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP84 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461686@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461686@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461686@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP85 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461710@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461710@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461710@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP86 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461734@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461734@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461734@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP87 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461757@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461757@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461757@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP88 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461780@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461780@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461780@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP89 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14461803@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14461803@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14461803@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP90 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14465421@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14465421@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14465421@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP91 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14465541@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14465541@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14465541@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP92 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14465563@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14465563@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14465563@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP93 'T POINT R_2_TP_300X150_TP_300X1':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14465585@SENSORS EXPO DEMO_09MAY2016_01.T POINT R_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14465585@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14465585@\sensors expo demo_09may2016_01\.\t point r_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_SCL1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385055@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385055@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385055@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_SDA1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383907@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383907@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383907@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'USBMICROB_0_FCI_10118194-0001LF':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383279@SENSORS EXPO DEMO_6MAY2016_1145.USBMICROB_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383279@\sensors expo demo_6may2016_1145\.\usbmicrob_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383279@\sensors expo demo_6may2016_1145\.\usbmicrob_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'NRF51422_0_48-VFQFN_NRF51422':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14382883@SENSORS EXPO DEMO_6MAY2016_1310.NRF51422_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14382883@\sensors expo demo_6may2016_1310\.\nrf51422_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14382883@\sensors expo demo_6may2016_1310\.\nrf51422_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'ANT2012LL13R2400A_YAGEO_ANT2012':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384583@ECORECO.ANT2012LL13R2400A.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384583@ecoreco.\ant2012ll13r2400a.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384583@ecoreco.\ant2012ll13r2400a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'SMLVN6RGB_ROHM_SMLVN6RGB1W1_SML':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385251@LIBRARY1.SMLVN6RGB.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385251@library1.\smlvn6rgb.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385251@library1.\smlvn6rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'BD8306MUV_2_VQFN016V3030_BD8306':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384379@SENSORS EXPO DEMO_09MAY2016_07.BD8306MUV_2.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384379@\sensors expo demo_09may2016_07\.\bd8306muv_2.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384379@\sensors expo demo_09may2016_07\.\bd8306muv_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'BH1745_0_WSON008X2120_BH1745':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383687@SENSORS EXPO DEMO_6MAY2016_1310.BH1745_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383687@\sensors expo demo_6may2016_1310\.\bh1745_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383687@\sensors expo demo_6may2016_1310\.\bh1745_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'BH1745_0_WSON008X2120_BH1745':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385111@SENSORS EXPO DEMO_6MAY2016_1310.BH1745_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385111@\sensors expo demo_6may2016_1310\.\bh1745_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385111@\sensors expo demo_6may2016_1310\.\bh1745_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'SERVO_100MIL_VIA3_LEFT SERVO':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384355@LIBRARY1.SERVO.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384355@library1.\servo.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384355@library1.\servo.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U31 'SERVO_100MIL_VIA3_RIGHT SERVO':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384295@LIBRARY1.SERVO.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384295@library1.\servo.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384295@library1.\servo.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U32 'STBC08_DFN6_STBC08':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383527@LIBRARY1.STBC08.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383527@library1.\stbc08.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383527@library1.\stbc08.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'BM1383_CLGA12V025M_BM1383':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383943@LIBRARY1.BM1383.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383943@library1.\bm1383.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383943@library1.\bm1383.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'KX122_LGA12R50P_200X200X90_KX12':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385171@MULTISENSORBREAKOUT.KX122.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385171@multisensorbreakout.\kx122.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385171@multisensorbreakout.\kx122.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U35 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399131@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399131@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399131@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399379@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399379@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399379@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U37 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399783@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399783@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399783@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400023@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400023@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400023@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399755@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399755@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399755@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U40 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398543@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398543@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398543@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U41 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399035@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399035@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399035@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U42 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398811@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398811@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398811@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U43 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399455@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399455@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399455@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U44 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398723@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398723@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398723@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U45 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399615@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399615@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399615@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U46 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14398967@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14398967@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14398967@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U47 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14399427@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14399427@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14399427@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U48 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400283@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400283@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400283@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U49 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):LED MODULE@SENSORS EXPO DEMO_12MAY2016_1200.LED(SCH_1):INS14400371@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\led module\@\sensors expo demo_12may2016_1200\.led(sch_1):ins14400371@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_led module\@\sensors expo demo_12may2016_1200\.led(sch_1):page4_ins14400371@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U50 'BD8306MUV_1_VQFN016V3030_BD8306':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14436220@SENSORS EXPO DEMO_09MAY2016_07.BD8306MUV_1.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14436220@\sensors expo demo_09may2016_07\.\bd8306muv_1.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14436220@\sensors expo demo_09may2016_07\.\bd8306muv_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U51 'SMLP34RGB2W_ROHM_SMLP34_SMLP34R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446750@ML620Q503H.SMLP34RGB2W.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446750@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446750@ml620q503h.\smlp34rgb2w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U52 'ML620Q530H-R_TQFP50P900X900X120':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446366@SENSORS EXPO_2016-04-19_APART FROM BLE_M.ML620Q530H-R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446366@\sensors expo_2016-04-19_apart from ble_m\.\ml620q530h-r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446366@\sensors expo_2016-04-19_apart from ble_m\.\ml620q530h-r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U53 'KXG03_LGA16R50P_300X300X90_KXG0':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446862@ML620Q503H.KXG03.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446862@ml620q503h.\kxg03.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446862@ml620q503h.\kxg03.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U54 'KX022_LGA12S50P_200X200X90_KX02':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):MCU MODULE@SENSORS EXPO DEMO_12MAY2016_1200.MCU(SCH_1):INS14446590@SENSORS EXPO_2016-04-19_APART FROM BLE_M.KX022.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):ins14446590@\sensors expo_2016-04-19_apart from ble_m\.\kx022.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):\page2_mcu module\@\sensors expo demo_12may2016_1200\.mcu(sch_1):page5_ins14446590@\sensors expo_2016-04-19_apart from ble_m\.\kx022.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UART_RX1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383147@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383147@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383147@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ UART_TX1 'T POINT R_TP_R_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14385019@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14385019@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14385019@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y4 'OSC6/SM_0_NDK_NX2520SA_16MHZ':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14384923@SENSORS EXPO DEMO_6MAY2016_1200.OSC6/SM_0.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14384923@\sensors expo demo_6may2016_1200\.\osc6/sm_0.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14384923@\sensors expo demo_6may2016_1200\.\osc6/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y5 'OSC6/SM_1_EPSON_FC-135R_32.768K':;
+
+SECTION_NUMBER 1
+ '@SENSORS EXPO DEMO_12MAY2016_1200.DEMO(SCH_1):INS14383811@SENSORS EXPO DEMO_6MAY2016_1230.OSC6/SM_1.NORMAL(CHIPS)':
+ C_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):ins14383811@\sensors expo demo_6may2016_1230\.\osc6/sm_1.normal\(chips)',
+ P_PATH='@\sensors expo demo_12may2016_1200\.demo(sch_1):page3_ins14383811@\sensors expo demo_6may2016_1230\.\osc6/sm_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
